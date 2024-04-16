@@ -39,3 +39,62 @@ background: #fff;}
         .menu-top-link:focus {
          color: #404bbf;}
 
+         .title {font-family: "Roboto", sans-serif;
+            font-weight: 700;
+            font-size: 56px;
+            line-height: 1.07143;
+            letter-spacing: 0.02em;
+            text-align: center;
+            color: #fff;}
+
+            .button-1 {font-family: "Roboto", sans-serif;
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 1.5;
+                letter-spacing: 0.04em;
+                color: #fff;}
+
+         .page-main-title {font-family: "Roboto", sans-serif;
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 1.2;
+            letter-spacing: 0.02em;
+            color: #2e2f42;}
+
+        .page-main-list {font-family: "Roboto", sans-serif;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+            color: #434455;}
+
+            .title-2 {font-family: "Roboto", sans-serif;
+                font-weight: 700;
+                font-size: 36px;
+                line-height: 1.11111;
+                letter-spacing: 0.02em;
+                text-align: center;
+                color: #2e2f42;}
+
+                .title-3 {font-family: "Roboto", sans-serif;
+                    font-weight: 500;
+                    font-size: 20px;
+                    line-height: 1.2;
+                    letter-spacing: 0.02em;
+                    text-align: center;
+                    color: #2e2f42;}
+
+                    font-family: "Roboto", sans-serif;
+.section3-4 {font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;}
+
+.footer-list {font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;}
