@@ -1,10 +1,11 @@
 ul, ol {list-style-type: none;}
 a {text-decoration: none;}
-button {cursor: pointer;}
+button {cursor: pointer;
+    font-family: inherit;}
 
 .body {font-family: "Roboto", sans-serif ;
 color:#434455; 
-background:#FFFFFF;}
+background-color:#FFFFFF;}
 
 <!--header-styles-->
 
@@ -14,9 +15,8 @@ background:#FFFFFF;}
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
-    }
-.text-color {color: #4d5ae5;}
+    color: ; #4d5ae5;}
+.text-color {color: #2e2f42;}
 .menu-link {
     font-weight: 500;
     font-size: 16px;
@@ -28,7 +28,7 @@ background:#FFFFFF;}
     .menu-link:focus  
     {color: #404bbf;}
     
-    .menu-top-link {font-family: "Roboto", sans-serif;
+.menu-top-link {font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -39,36 +39,44 @@ background:#FFFFFF;}
         .menu-top-link:focus {
          color: #404bbf;}
 
-         .title {font-family: "Roboto", sans-serif;
+<!--Section1--> 
+
+.section1 {background-color: #2e2f42;}
+
+ .title {font-family: "Roboto", sans-serif;
             font-weight: 700;
             font-size: 56px;
             line-height: 1.07143;
             letter-spacing: 0.02em;
             text-align: center;
-            color: #fff;}
+            color: #FFFFFF;}
 
-            .button-1 {font-family: "Roboto", sans-serif;
+ .button1 {font-family: "Roboto", sans-serif;
                 font-weight: 500;
                 font-size: 16px;
                 line-height: 1.5;
                 letter-spacing: 0.04em;
-                color: #fff;}
+                color: #FFFFFF;}
 
-         .page-main-title {font-family: "Roboto", sans-serif;
+ <!--Section2-->
+
+.page-main-title {font-family: "Roboto", sans-serif;
             font-weight: 500;
             font-size: 20px;
             line-height: 1.2;
             letter-spacing: 0.02em;
             color: #2e2f42;}
 
-        .page-main-list {font-family: "Roboto", sans-serif;
+ .page-main-list {font-family: "Roboto", sans-serif;
             font-weight: 400;
             font-size: 16px;
             line-height: 1.5;
             letter-spacing: 0.02em;
             color: #434455;}
 
-            .title-2 {font-family: "Roboto", sans-serif;
+    <!--Section3-->
+
+.title-2 {font-family: "Roboto", sans-serif;
                 font-weight: 700;
                 font-size: 36px;
                 line-height: 1.11111;
@@ -76,7 +84,9 @@ background:#FFFFFF;}
                 text-align: center;
                 color: #2e2f42;}
 
-                .title-3 {font-family: "Roboto", sans-serif;
+   <!--Section4-->
+
+ .title-3 {font-family: "Roboto", sans-serif;
                     font-weight: 500;
                     font-size: 20px;
                     line-height: 1.2;
@@ -91,6 +101,8 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: center;
 color: #434455;}
+
+<!--Footer__>
 
 .footer-list {font-family: "Roboto", sans-serif;
     font-weight: 400;
