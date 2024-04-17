@@ -10,7 +10,7 @@ background-color:#FFFFFF;}
 
 <!--header-styles-->
 
-.page-logo {font-family: "Raleway", sans-serif;
+.page-logo {font-family: sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -46,7 +46,7 @@ address {font-style: normal;}
 
 <!--Section1--> 
 
-.page-main-one {
+.section-one {
     background-color: #2e2f42;}
 
  .title {
