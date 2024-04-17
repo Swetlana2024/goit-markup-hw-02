@@ -41,9 +41,13 @@ background-color:#FFFFFF;}
         .menu-top-link:focus {
          color: #404bbf;}
 
+address {font-style: normal;}
+
+
 <!--Section1--> 
 
-.section-one {background-color: #2e2f42;}
+.section-one {
+    background-color: #2e2f42;}
 
  .title {
     font-weight: 700;
@@ -58,7 +62,7 @@ background-color:#FFFFFF;}
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    background-color: #4d5ae5;}
+    color: #FFFFFF;}
 
     .button-one:hover,
     .button-one:focus {
