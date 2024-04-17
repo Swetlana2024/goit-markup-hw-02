@@ -46,7 +46,7 @@ address {font-style: normal;}
 
 <!--Section1--> 
 
-section-one {
+.page-main-one {
     background-color: #2e2f42;}
 
  .title {
@@ -55,9 +55,9 @@ section-one {
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #FFFFFF}
+    color: #FFFFFF;}
 
- button-one {
+ .button-one {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -66,7 +66,7 @@ section-one {
 
     .button-one:hover,
     .button-one:focus {
-        color: #404bbf;}
+     color: #404bbf;}
 
  <!--Section2-->
 
@@ -85,7 +85,7 @@ section-one {
     color: #434455;}
 
     <!--Section3-4-->
-section-three {
+.section-three {
     background-color: #f4f4fd;}
 
 .title-two {
