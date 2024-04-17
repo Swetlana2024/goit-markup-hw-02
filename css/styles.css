@@ -10,7 +10,8 @@ background-color:#FFFFFF;}
 
 <!--header-styles-->
 
-.logo {font-family: sans-serif;
+.page-logo {
+    font-family: sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -130,7 +131,8 @@ color: #434455;}
     letter-spacing: 0.02em;
     color: #f4f4fd;}
 
-    .text-color-two {color: #f4f4fd;}
+    .text-color-two {
+        color: #f4f4fd;}
 
     .page-box {
         background-color: #2e2f42;}
