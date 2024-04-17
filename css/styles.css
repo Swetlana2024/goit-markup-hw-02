@@ -85,6 +85,9 @@ address {font-style: normal;}
     color: #434455;}
 
     <!--Section3-4-->
+
+.menu-list {
+    background-color: #FFFFFF;}
 .section-three {
     background-color: #f4f4fd;}
 
@@ -128,3 +131,6 @@ footer-lead {
     color: #f4f4fd;}
 
     .text-color-two {color: #f4f4fd;}
+
+    .page-box {
+        background-color: #2e2f42;}
