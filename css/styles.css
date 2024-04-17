@@ -46,7 +46,7 @@ address {font-style: normal;}
 
 <!--Section1--> 
 
-.section-one {
+section-one {
     background-color: #2e2f42;}
 
  .title {
@@ -57,7 +57,7 @@ address {font-style: normal;}
     text-align: center;
     color: #FFFFFF}
 
- .button-one {
+ button-one {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -85,7 +85,7 @@ address {font-style: normal;}
     color: #434455;}
 
     <!--Section3-4-->
-.section-three {
+section-three {
     background-color: #f4f4fd;}
 
 .title-two {
@@ -120,7 +120,7 @@ color: #434455;}
 
 <!--Footer-->
 
-.footer-lead {
+footer-lead {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
