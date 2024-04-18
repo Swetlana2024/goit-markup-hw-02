@@ -20,6 +20,7 @@ background-color:#FFFFFF;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
     color: #4d5ae5;
 }
 
@@ -72,12 +73,13 @@ address {font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #4d5ae5;
+    color: #FFFFFF;
+    background-color: #4d5ae5;
 }
 
     .button-one:hover,
     .button-one:focus {
-     color: #404bbf;
+     background-color: #404bbf;
     }
 
  /*--Section2--*/
