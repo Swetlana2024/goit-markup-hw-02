@@ -2,7 +2,7 @@ ul, ol {list-style-type: none;}
 a {text-decoration: none;}
 button {cursor: pointer;
     font-family: inherit;}
-
+hero {font-family: inherit;}
 body {
 font-family: "Roboto", sans-serif;
 color:#434455; 
@@ -47,10 +47,8 @@ address {font-style: normal;}
 
 <!--Section1--> 
 
-.section-one {
-    background-color: #2e2f42;}
 
- .title {
+ .page-title {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -63,7 +61,7 @@ address {font-style: normal;}
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #FFFFFF;}
+    color: #4d5ae5;}
 
     .button-one:hover,
     .button-one:focus {
